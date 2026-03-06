@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Allow: /golden-state-builders-group.kml
+
+Sitemap: https://gsbuildersgroup.com/sitemaps.xml
+Sitemap: https://gsbuildersgroup.com/sitemap-llms.xml
+
+##LLMS reference for internal tracking 
+##LLMS: https://gsbuildersgroup.com/llms.txt
