@@ -1,18 +1,17 @@
-URL: https://gsbuildersgroup.com/
 # Golden State Builders Group
+- [Golden State Builders Group](https://gsbuildersgroup.com/)
 > A full-service residential and commercial construction and remodeling company in Walnut Creek, CA, providing interior and exterior renovations, restoration, inspections, and design-build solutions.
 > This file lists LLM-ready summaries of our pages, including short Q&A for context.
 
-URL: https://gsbuildersgroup.com/interior-contracting-services/
-## Interior Contractor 
+## Services
+- [Interior Contractor](https://gsbuildersgroup.com/interior-contracting-services/)
 - Interior Contractor in Walnut Creek, CA. Providing interior contracting services, such as design, remodeling, finishes, and systems upgrades to improve comfort, functionality, and aesthetics inside homes.
 - **Q:** What does interior contracting include?
 - **A:** Golden State Builders Group’s interior contracting includes services such as painting, flooring, refinishing, and full remodeling.
 - **Q:** What service helps with indoor climate and air quality?
 - **A:** Golden State Builders Group offers HVAC services to improve energy performance and indoor air quality.
 
-URL: https://gsbuildersgroup.com/architecture-plans/
-## Architectural Design Services 
+- [Architectural Design Services](https://gsbuildersgroup.com/architecture-plans/)
 - Architectural Design Services in Walnut Creek, CA. Creating detailed, functional, and code‑compliant architectural plans and design services for residential and commercial projects.
 - **Q:** What do architectural planning teams do?
 - **A:** Golden State Builders Group’s architectural planning team helps clients transform their vision into buildable, code‑compliant architectural plans.
@@ -21,16 +20,14 @@ URL: https://gsbuildersgroup.com/architecture-plans/
 - **Q:** What kinds of buildings can companies design plans for?
 - **A:** Golden State Builders Group offers architectural plan services for single‑family homes, custom remodels, offices, and mixed‑use developments.
 
-URL: https://gsbuildersgroup.com/bathroom-remodel/
-## Bathroom Remodeling 
+- [Bathroom Remodeling](https://gsbuildersgroup.com/bathroom-remodel/)
 - Bathroom Remodeling in Walnut Creek, CA. Designing and installing custom bathroom remodels that combine stylish finishes, improved layouts, and high‑quality fixtures to create more functional and visually appealing bathrooms for homeowners.
 - **Q:** What elements are included in bathroom remodels?
 - **A:** Golden State Builders Group’s bathroom remodels include premium finishes, updated fixtures, and expert craftsmanship to elevate comfort and style.
 - **Q:** How to approach a bathroom design?
 - **A:** Golden State Builders Group works with clients to create customized bathroom remodels that reflect their vision and preferences.
 
-URL: https://gsbuildersgroup.com/flood-fire-restoration/
-## Fire & Water Restoration Services 
+- [Fire & Water Restoration Services](https://gsbuildersgroup.com/flood-fire-restoration/)
 - Fire & Water Restoration Services in Walnut Creek, CA. Offering professional flood and fire restoration services to repair, restore, and improve properties damaged by water or fire, including fireproofing and fire‑resistant upgrades.
 - **Q:** What types of restoration are handled for homes affected by disasters?
 - **A:** Golden State Builders Group restores properties damaged by floods or fires, returning them to safe and functional condition.
@@ -39,8 +36,7 @@ URL: https://gsbuildersgroup.com/flood-fire-restoration/
 - **Q:** Where are the flood and fire restoration services provided?
 - **A:** Golden State Builders Group provides these restoration services to residential and commercial properties in and around Walnut Creek, CA, and nearby Bay Area locations.
 
-URL: https://gsbuildersgroup.com/hvac/
-## HVAC Services 
+- [HVAC Services](https://gsbuildersgroup.com/hvac/)
 - HVAC Services in Walnut Creek, CA. Offering HVAC (heating, ventilation, and air conditioning) services, such as system design, installation, repair, preventive maintenance, and indoor air quality solutions, for residential and commercial properties.
 - **Q:** What is included in the HVAC services?
 - **A:** Golden State Builders Group offers HVAC system design, installation, repair, preventive maintenance, and indoor air quality solutions.
@@ -49,8 +45,7 @@ URL: https://gsbuildersgroup.com/hvac/
 - **Q:** What energy‑focused features are part of HVAC work?
 - **A:** Golden State Builders Group designs energy‑efficient HVAC systems with optimized airflow, load calculations, zoning plans, and smart thermostat integration.
 
-URL: https://gsbuildersgroup.com/kitchen/
-## Kitchen Remodeling 
+- [Kitchen Remodeling](https://gsbuildersgroup.com/kitchen/)
 - Kitchen Remodeling in Walnut Creek, CA. Offering kitchen remodeling services, including custom kitchen design, cabinetry installation, countertop replacement, flooring, lighting, and full renovation solutions.
 - **Q:** What does the kitchen remodeling service include?
 - **A:** Golden State Builders Group’s kitchen remodeling services include design planning, cabinetry installation, countertop upgrades, flooring, lighting, and full kitchen renovation work.
@@ -59,32 +54,28 @@ URL: https://gsbuildersgroup.com/kitchen/
 - **Q:** Does the service include countertop installation?
 - **A:** Golden State Builders Group installs and replaces kitchen countertops using a variety of materials based on design preferences and durability needs.
 
-URL: https://gsbuildersgroup.com/interior-painting/
-## Interior Painting 
+- [Interior Painting](https://gsbuildersgroup.com/interior-painting/)
 - Interior Painting in Walnut Creek, CA. Offering interior painting services, such as surface preparation, wall and ceiling painting, trim and detail work, and high-quality finishing, designed to refresh and improve residential spaces.
 - **Q:** What does the interior painting service include?
 - **A:** Golden State Builders Group interior painting includes full surface preparation, wall and ceiling painting, and detailed finishing work for a clean, refreshed interior look.
 - **Q:** Is surface preparation part of the painting process?
 - **A:** Yes, Golden State Builders Group includes cleaning, sanding, and repairing surfaces before applying paint to ensure a smooth and long-lasting finish.
 
-URL: https://gsbuildersgroup.com/refinishing/
-## Refinishing Services 
+- [Refinishing Services](https://gsbuildersgroup.com/refinishing/)
 - Refinishing Services in Walnut Creek, CA. Offering services that restore and renew wood surfaces such as floors, cabinets, furniture, and other interior wood elements using sanding, staining, sealing, and eco-friendly finishing techniques.
 - **Q:** What does the refinishing process include?
 - **A:** Golden State Builders Group includes sanding, stripping old finishes, staining or painting, and applying protective coatings for long-lasting durability.
 - **Q:** Is refinishing a cost-effective option compared to replacement?
 - **A:** Golden State Builders Group offers refinishing as a cost-effective alternative to replacing wood surfaces, helping restore appearance without full renovation.
 
-URL: https://gsbuildersgroup.com/flooring/
-## Floor Services.
+- [Floor Services.](https://gsbuildersgroup.com/flooring/)
 - Floor Services in Walnut Creek, CA. Offering flooring services, including installation of hardwood, laminate, vinyl, tile, and carpet flooring, along with subfloor preparation, repairs, and full flooring replacement for residential and commercial spaces.
 - **Q:** Are flooring repairs available?
 - **A:** Golden State Builders Group provides repair services for damaged flooring to restore appearance and functionality.
 - **Q:** Is old flooring removed before installation?
 - **A:** Golden State Builders Group removes existing flooring and prepares the subfloor to ensure proper installation and long-lasting results.
 
-URL: https://gsbuildersgroup.com/exterior-contracting-services/
-## Exterior Contractor 
+- [Exterior Contractor](https://gsbuildersgroup.com/exterior-contracting-services/)
 - Exterior Contractor in Walnut Creek, CA. Providing exterior contracting services, including siding installation and replacement, roofing, windows, decks, exterior painting, and structural exterior upgrades designed to improve durability, protection, and curb appeal.
 - **Q:** What services are included in exterior contracting work?
 - **A:** Golden State Builders Group exterior contracting includes siding, roofing, windows, decks, exterior painting, and other structural exterior improvement services.
@@ -93,122 +84,74 @@ URL: https://gsbuildersgroup.com/exterior-contracting-services/
 - **Q:** What materials are used for siding work?
 - **A:** Golden State Builders Group works with durable siding materials designed to improve insulation, protection, and exterior appearance.
 
-URL: https://gsbuildersgroup.com/service-area/walnut-creek/
-## United States, Walnut Creek - Golden State Builders Group
+## Service Areas
+- [United States, Walnut Creek - Golden State Builders Group](https://gsbuildersgroup.com/service-area/walnut-creek/)
 - Golden State Builders Group provides expert construction services in Walnut Creek, California. Discover superior deck building, roofing, and siding services tailored to your needs.
-
-URL: https://gsbuildersgroup.com/service-area/clayton/deck-builders/
-## Deck Builders - United States, Clayton
+- [Deck Builders - United States, Clayton](https://gsbuildersgroup.com/service-area/clayton/deck-builders/)
 - Transform your outdoor space with Golden State Builders Group's expert deck builders in Clayton, CA. Custom decks designed with top-quality craftsmanship and durability.
-
-URL: https://gsbuildersgroup.com/service-area/san-francisco/roofing-companies/
-## Roofing Companies - United States, San Francisco
+- [Roofing Companies - United States, San Francisco](https://gsbuildersgroup.com/service-area/san-francisco/roofing-companies/)
 - Golden State Builders Group offers durable, weather-resistant roofing services in San Francisco, CA. Free quotes available.
-
-URL: https://gsbuildersgroup.com/service-area/san-francisco/roof-repair/
-## Roof Repair - United States, San Francisco
+- [Roof Repair - United States, San Francisco](https://gsbuildersgroup.com/service-area/san-francisco/roof-repair/)
 - Expert roof repair services for leaks, damage, and wear. Skilled team ensures roof integrity and protection. Free consultation offered.
 
-URL: https://gsbuildersgroup.com/how-can-you-tell-a-rogue-roofer/
-## How Can You Tell a Rogue Roofer
+## Roofing Guides
+- [How Can You Tell a Rogue Roofer](https://gsbuildersgroup.com/how-can-you-tell-a-rogue-roofer/)
 - Guidance on identifying unreliable or rogue roofing contractors.
-
-URL: https://gsbuildersgroup.com/what-is-the-difference-between-a-roofing-company-and-a-roofing-contractor/
-## What Is the Difference Between a Roofing Company and a Roofing Contractor
+- [What Is the Difference Between a Roofing Company and a Roofing Contractor](https://gsbuildersgroup.com/what-is-the-difference-between-a-roofing-company-and-a-roofing-contractor/)
 - Explanation of distinctions between roofing companies and contractors.
-
-URL: https://gsbuildersgroup.com/should-i-stay-home-during-roof-replacement/
-## Should I Stay Home During Roof Replacement
+- [Should I Stay Home During Roof Replacement](https://gsbuildersgroup.com/should-i-stay-home-during-roof-replacement/)
 - Advice on whether homeowners should remain at home during roof replacement.
-
-URL: https://gsbuildersgroup.com/how-to-tell-if-a-roofer-is-lying/
-## How to Tell if a Roofer Is Lying
+- [How to Tell if a Roofer Is Lying](https://gsbuildersgroup.com/how-to-tell-if-a-roofer-is-lying/)
 - Tips for spotting dishonesty in roofing contractors.
-
-URL: https://gsbuildersgroup.com/how-to-spot-a-bad-roofing-company/
-## How to Spot a Bad Roofing Company
+- [How to Spot a Bad Roofing Company](https://gsbuildersgroup.com/how-to-spot-a-bad-roofing-company/)
 - Signs and red flags to identify poor-quality roofing companies.
 
-URL: https://gsbuildersgroup.com/deck-building-area/deck-builders-in-los-altos-hills/
-## Deck builders in Los Altos Hills
+## Deck Builders
+- [Deck builders in Los Altos Hills](https://gsbuildersgroup.com/deck-building-area/deck-builders-in-los-altos-hills/)
 - Golden State Builders Group specializes in custom deck construction with over 20 years of expertise. Based in Walnut Creek, CA, they design and build durable, functional, and beautiful outdoor spaces tailored to client needs.
-
-URL: https://gsbuildersgroup.com/deck-building-area/deck-builders-in-vallejo/
-## Deck builders in Vallejo
+- [Deck builders in Vallejo](https://gsbuildersgroup.com/deck-building-area/deck-builders-in-vallejo/)
 - Expert deck builders offering custom designs and craftsmanship in Vallejo, CA. Over 20 years of experience creating outdoor spaces that blend beauty and durability.
-
-URL: https://gsbuildersgroup.com/deck-building-area/deck-builders-in-vacaville/
-## Deck builders in Vacaville
+- [Deck builders in Vacaville](https://gsbuildersgroup.com/deck-building-area/deck-builders-in-vacaville/)
 - Golden State Builders Group provides professional deck building services in Vacaville, CA. Custom decks designed to match client vision with long-lasting quality.
-
-URL: https://gsbuildersgroup.com/deck-building-area/deck-builders-in-suisun-city/
-## Deck builders in Suisun City
+- [Deck builders in Suisun City](https://gsbuildersgroup.com/deck-building-area/deck-builders-in-suisun-city/)
 - Trusted deck builders in Suisun City, CA. Over 20 years of experience in crafting outdoor retreats with functionality and style.
-
-URL: https://gsbuildersgroup.com/deck-building-area/deck-builders-in-rio-vista/
-## Deck builders in Rio Vista
+- [Deck builders in Rio Vista](https://gsbuildersgroup.com/deck-building-area/deck-builders-in-rio-vista/)
 - Golden State Builders Group offers expert deck construction in Rio Vista, CA. Custom designs tailored to client needs, combining durability and aesthetics.
 
-URL: https://gsbuildersgroup.com/roof-building/roof-builders-in-union-city/
-## Roof builders in Union City
+## Roof Builders
+- [Roof builders in Union City](https://gsbuildersgroup.com/roof-building/roof-builders-in-union-city/)
 - Golden State Builders Group specializes in custom roof construction with over 20 years of expertise. Based in Walnut Creek, CA, they design and build durable, functional, and beautiful roofs tailored to client needs.
-
-URL: https://gsbuildersgroup.com/roof-building/roof-builders-in-pleasanton/
-## Roof builders in Pleasanton
+- [Roof builders in Pleasanton](https://gsbuildersgroup.com/roof-building/roof-builders-in-pleasanton/)
 - Expert roof builders offering custom designs and craftsmanship in Pleasanton, CA. Over 20 years of experience creating roofs that blend beauty and durability.
-
-URL: https://gsbuildersgroup.com/roof-building/roof-builders-in-piedmont/
-## Roof builders in Piedmont
+- [Roof builders in Piedmont](https://gsbuildersgroup.com/roof-building/roof-builders-in-piedmont/)
 - Golden State Builders Group provides professional roof building services in Piedmont, CA. Custom roofs designed to match client vision with long-lasting quality.
-
-URL: https://gsbuildersgroup.com/roof-building/roof-builders-in-oakland/
-## Roof builders in Oakland
+- [Roof builders in Oakland](https://gsbuildersgroup.com/roof-building/roof-builders-in-oakland/)
 - Trusted roof builders in Oakland, CA. Over 20 years of experience in crafting durable and stylish roof solutions.
-
-URL: https://gsbuildersgroup.com/roof-building/roof-builders-in-newark/
-## Roof builders in Newark
+- [Roof builders in Newark](https://gsbuildersgroup.com/roof-building/roof-builders-in-newark/)
 - Golden State Builders Group offers expert roof construction in Newark, CA. Custom designs tailored to client needs, combining durability and aesthetics.
 
-URL: https://gsbuildersgroup.com/portfolio/oakland-kitchen-refinish/
-## Oakland - Kitchen Refinish
+## Portfolio
+- [Oakland - Kitchen Refinish](https://gsbuildersgroup.com/portfolio/oakland-kitchen-refinish/)
 - Portfolio example of kitchen refinishing project in Oakland, CA.
-
-URL: https://gsbuildersgroup.com/portfolio/vallejo-house-siding-work/
-## Vallejo - House Siding
+- [Vallejo - House Siding](https://gsbuildersgroup.com/portfolio/vallejo-house-siding-work/)
 - Portfolio showcase of house siding work completed in Vallejo, CA.
-
-URL: https://gsbuildersgroup.com/portfolio/san-francisco-roof/
-## San Francisco - Roofing
+- [San Francisco - Roofing](https://gsbuildersgroup.com/portfolio/san-francisco-roof/)
 - Roofing project completed in San Francisco, CA.
-
-URL: https://gsbuildersgroup.com/portfolio/berkeley-house-siding-works/
-## Berkeley - House Siding
+- [Berkeley - House Siding](https://gsbuildersgroup.com/portfolio/berkeley-house-siding-works/)
 - House siding project completed in Berkeley, CA.
-
-URL: https://gsbuildersgroup.com/portfolio/martinez-kitchen-remodel/
-## Martinez - Kitchen Remodel
+- [Martinez - Kitchen Remodel](https://gsbuildersgroup.com/portfolio/martinez-kitchen-remodel/)
 - Kitchen remodeling project completed in Martinez, CA.
 
-URL: https://gsbuildersgroup.com/project-status/finished/
-## Finished
+## Projects
+- [Finished](https://gsbuildersgroup.com/project-status/finished/)
 - Completed projects status page.
-
-URL: https://gsbuildersgroup.com/project-location/vallejo/
-## Vallejo
+- [Vallejo](https://gsbuildersgroup.com/project-location/vallejo/)
 - Project location: Vallejo, CA.
-
-URL: https://gsbuildersgroup.com/project-location/oakland/
-## Oakland
+- [Oakland](https://gsbuildersgroup.com/project-location/oakland/)
 - Project location: Oakland, CA.
-
-URL: https://gsbuildersgroup.com/project-location/san-francisco/
-## San Francisco
+- [San Francisco](https://gsbuildersgroup.com/project-location/san-francisco/)
 - Project location: San Francisco, CA.
-
-URL: https://gsbuildersgroup.com/project-location/berkeley/
-## Berkeley
+- [Berkeley](https://gsbuildersgroup.com/project-location/berkeley/)
 - Project location: Berkeley, CA.
-
-URL: https://gsbuildersgroup.com/project-location/san-leandro/
-## San Leandro
+- [San Leandro](https://gsbuildersgroup.com/project-location/san-leandro/)
 - Project location: San Leandro, CA.
